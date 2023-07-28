@@ -1,6 +1,4 @@
-#  Revisão Front-End
-
-# HTML E CSS
+#  Revisão Front-End  HTML e CSS
 
 ## Definição
 
